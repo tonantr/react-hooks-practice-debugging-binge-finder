@@ -30,7 +30,7 @@ warnings have been cleared. Finish off with a round of celebratory drinks!
 3. A user should be able to filter the list of shows by their rating.
 
 4. A user should be able to display seasons and episodes when a show is
-   selected.
+   selected...
 
 ## BONUS
 
